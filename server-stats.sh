@@ -1,4 +1,5 @@
 #!/bin/bash
+#Check for root access
 if [ "$EUID" -eq 0 ]; then
     ROOT_ACCESS=true
 else
