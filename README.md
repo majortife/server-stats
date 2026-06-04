@@ -23,3 +23,6 @@ chmod +x server-stats.sh
 
 # Run with sudo (full features)
 sudo ./server-stats.sh
+
+
+Project URL: https://roadmap.sh/projects/server-stats
